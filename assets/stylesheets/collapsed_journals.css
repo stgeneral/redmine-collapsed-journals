@@ -1,0 +1,9 @@
+#toggle-journal-details-div {
+	float: right;
+	padding-top: 5px;
+	padding-right: 5px;
+}
+
+#hide-journal-details {
+	display: none;
+}
