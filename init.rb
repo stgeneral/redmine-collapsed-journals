@@ -5,9 +5,10 @@ end
 Redmine::Plugin.register :collapsed_journals do
   name 'Collapsed Journals Plugin'
   author 'Dmitry Babenko'
-  description "Hide the journal details that don't have a note associated by default and add a link to show all details."
+  description 'Collapses issue history items without an assosiated note'
   version '0.0.2'
   url 'https://github.com/stgeneral/redmine-collapsed-journals'
+  author_url 'https://github.com/stgeneral'
   requires_redmine :version_or_higher => '2.2.0'
 end
 
