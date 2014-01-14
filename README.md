@@ -5,7 +5,7 @@ Collapses issue history items without an assosiated note.
 
 Translated into 4 languages: English, German, Russian, Ukrainian.
 
-This plugin is the fork of "Hide Journal Details":http://www.redmine.org/plugins/hide_journal_details plugin by "Jürgen Diez":http://www.redmine.org/users/76374.
+This plugin is the fork of [Hide Journal Details](http://www.redmine.org/plugins/hide_journal_details) plugin by [Jürgen Diez](http://www.redmine.org/users/76374).
 
 Installation notes
 ------------------
