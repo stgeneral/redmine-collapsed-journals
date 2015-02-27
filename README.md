@@ -3,7 +3,7 @@ Redmine Collapsed Journals Plugin
 
 Collapses issue history items without an assosiated note.
 
-Translated into 4 languages: English, German, Russian, Ukrainian.
+Translated into 4 languages: English, German, Russian, Ukrainian, Brazilian Portuguese.
 
 This plugin is the fork of [Hide Journal Details](http://www.redmine.org/plugins/hide_journal_details) plugin by [Jürgen Diez](http://www.redmine.org/users/76374).
 
