@@ -6,7 +6,7 @@ Redmine::Plugin.register :collapsed_journals do
   name 'Collapsed Journals Plugin'
   author 'Dmitry Babenko'
   description 'Collapses issue history items without an assosiated note'
-  version '0.0.2'
+  version '0.0.3'
   url 'https://github.com/stgeneral/redmine-collapsed-journals'
   author_url 'https://github.com/stgeneral'
   requires_redmine :version_or_higher => '2.2.0'
