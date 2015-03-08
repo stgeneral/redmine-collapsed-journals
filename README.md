@@ -9,7 +9,7 @@ This plugin is the fork of [Hide Journal Details](http://www.redmine.org/plugins
 
 Screenshot
 ----------
-![Redmine Collapsed Journals Plugin Screenshot](https://github.com/stgeneral/redmine-collapsed-journals/releases/download/v0.0.2/collapsed-journals-screenshot.png)
+![Redmine Collapsed Journals Plugin Screenshot](http://stgeneral.github.io/redmine-collapsed-journals/images/screenshots/collapsed-journals-screenshot.png)
 
 Installation notes
 ------------------
